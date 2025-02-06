@@ -1,4 +1,4 @@
-package com.rodolfo.TaskScheduler;
+package com.rodolfo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
