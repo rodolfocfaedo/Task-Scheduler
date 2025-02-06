@@ -1,4 +1,4 @@
-package com.rodolfo.TaskScheduler.infrastucture.entity;
+package com.rodolfo.infrastructure.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
